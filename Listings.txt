@@ -1,0 +1,92 @@
+[
+  {
+    "Neighborhood": "Al Nahda",
+    "Price": 950000,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "HouseSize": 1800,
+    "Description": "A modern 3-bedroom villa with a spacious living area and a landscaped garden. Perfect for families looking for comfort and style.",
+    "NeighborhoodDescription": "Al Nahda is a vibrant community known for its family-friendly atmosphere, with parks, schools, and shopping centers nearby."
+  },
+  {
+    "Neighborhood": "Riyadh City Center",
+    "Price": 1200000,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 2500,
+    "Description": "Luxurious 4-bedroom apartment located in the heart of the city, featuring a stunning view of the skyline and high-end amenities.",
+    "NeighborhoodDescription": "The city center of Riyadh boasts a mix of commercial and residential properties, with easy access to restaurants, shopping, and entertainment."
+  },
+  {
+    "Neighborhood": "Al Olaya",
+    "Price": 850000,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "HouseSize": 1600,
+    "Description": "Charming 3-bedroom townhouse with a cozy interior and a private balcony. Ideal for young professionals and small families.",
+    "NeighborhoodDescription": "Al Olaya is a bustling area known for its proximity to business districts and upscale dining options."
+  },
+  {
+    "Neighborhood": "Jeddah Corniche",
+    "Price": 1800000,
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "HouseSize": 3500,
+    "Description": "Stunning beachfront villa with 5 bedrooms, an infinity pool, and direct access to the beach. Perfect for those seeking a luxurious lifestyle.",
+    "NeighborhoodDescription": "Jeddah Corniche is famous for its beautiful coastline, parks, and vibrant atmosphere, making it a prime location for leisure and relaxation."
+  },
+  {
+    "Neighborhood": "Al Khobar",
+    "Price": 700000,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "HouseSize": 1300,
+    "Description": "Well-maintained 2-bedroom apartment featuring modern finishes and a communal pool. Great for first-time buyers or investors.",
+    "NeighborhoodDescription": "Al Khobar is a coastal city with a mix of residential and commercial areas, known for its friendly community and proximity to the Arabian Gulf."
+  },
+  {
+    "Neighborhood": "Al Jubail",
+    "Price": 600000,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "HouseSize": 1500,
+    "Description": "Affordable 3-bedroom house with a spacious yard and close to schools. A great opportunity for families on a budget.",
+    "NeighborhoodDescription": "Al Jubail is a growing city with a strong sense of community, featuring parks, schools, and various amenities for residents."
+  },
+  {
+    "Neighborhood": "Dhahran",
+    "Price": 1300000,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 2800,
+    "Description": "Elegant 4-bedroom villa located in a quiet neighborhood, offering a large garden and modern appliances. Perfect for large families.",
+    "NeighborhoodDescription": "Dhahran is a well-established area known for its high standard of living, green spaces, and strong expatriate community."
+  },
+  {
+    "Neighborhood": "Makkah City",
+    "Price": 900000,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "HouseSize": 1700,
+    "Description": "Beautifully designed 3-bedroom flat close to major religious sites. Ideal for residents and visitors looking for a serene environment.",
+    "NeighborhoodDescription": "Makkah City is renowned for its religious significance, filled with cultural heritage and community-oriented living."
+  },
+  {
+    "Neighborhood": "Al Faisaliyah",
+    "Price": 1100000,
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "HouseSize": 3000,
+    "Description": "Spacious and luxurious 5-bedroom home featuring a private pool and high-end finishes, catering to a comfortable lifestyle.",
+    "NeighborhoodDescription": "Al Faisaliyah is an upscale neighborhood known for its modern architecture, shopping centers, and proximity to major roads."
+  },
+  {
+    "Neighborhood": "Al Khobar Waterfront",
+    "Price": 1450000,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 3200,
+    "Description": "Spectacular waterfront property with 4 bedrooms and panoramic sea views. Enjoy an exclusive lifestyle by the coast.",
+    "NeighborhoodDescription": "The Al Khobar Waterfront area is characterized by its beautiful views, recreational areas, and a lively social scene."
+  }
+]
