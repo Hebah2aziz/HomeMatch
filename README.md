@@ -1,11 +1,14 @@
 Project Overview
+
 app.py is a Python application that uses Large Language Models (LLMs) to:
 Generate realistic synthetic real estate listings (at least 10 properties).
 Create vector embeddings for listings and store them in a SQLite database.
 Perform semantic search to match buyer preferences with listings.
 Personalize listing descriptions using LLMs to highlight features that align with buyer preferences, without changing factual details.
+
 This project is Vocareum-compatible and uses a Vocareum-issued OpenAI API key.
-Key Features
+Key Features:
+
 Synthetic Data Generation:
 Uses gpt-4o-mini to generate diverse property data including neighborhood, price, bedrooms, bathrooms, house size, and descriptions.
 Vector Database Storage:
